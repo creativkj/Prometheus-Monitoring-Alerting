@@ -14,7 +14,9 @@ Set up one or more Prometheus exporters on each of the other EC2 instances that 
 5. Test the system to ensure that it is working as expected. This can be done by simulating a server failure and verifying that the alert is sent to the Slack channel.
 ## Results:
 The result of setting up a Prometheus monitoring system for multiple EC2 instances in multiple accounts and sending alerts to a Slack community when any of the servers are down should be a system that can monitor the status of the EC2 instances and send notifications to the Slack channel if any of the servers are down. 
+
 Some potential benefits of this system may include: 
+
 **1.Improved uptime:** By monitoring the status of the EC2 instances and being alerted when any of them go down, you can take action to restore service as quickly as possible. 
 **2.Increased visibility:** The Prometheus server and exporters will collect a wide range of metrics about the performance and health of the EC2 instances, which can help you identify trends and issues that may not be immediately apparent. 
 **3.Enhanced collaboration:** By sending alerts to a Slack channel, you can make it easier for team members to stay informed about the status of the EC2 instances and collaborate on resolving any issues that arise. 
