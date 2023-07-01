@@ -25,3 +25,54 @@ Some potential benefits of this system may include:
 
 Overall, the result of this system should be a more reliable, transparent, and collaborative way to manage the EC2 instances in your environment.
 
+
+
+![instances](https://github.com/creativkj/Prometheus-Monitoring-Alerting/assets/121052351/f40022e3-ce53-4f7b-a623-1507605ed18a)
+
+
+
+![prom_instance](https://github.com/creativkj/Prometheus-Monitoring-Alerting/assets/121052351/b9f4de3d-e7cf-4e62-be0b-314826a31caa)
+
+
+
+![prometheus_status](https://github.com/creativkj/Prometheus-Monitoring-Alerting/assets/121052351/43b19e80-889c-4194-89e3-db559d815ee7)
+
+
+
+![node_exporter instance](https://github.com/creativkj/Prometheus-Monitoring-Alerting/assets/121052351/a38fe945-8bf5-4c3a-b3cf-0084e4572532)
+
+
+
+![node_exporter_status](https://github.com/creativkj/Prometheus-Monitoring-Alerting/assets/121052351/da68bd77-b106-4743-9096-2cfe4199a6b9)
+
+
+
+![node_exporter2_instance](https://github.com/creativkj/Prometheus-Monitoring-Alerting/assets/121052351/6d1305f8-e154-420e-9e38-9c63e8931239)
+
+
+
+![alerts_allUP](https://github.com/creativkj/Prometheus-Monitoring-Alerting/assets/121052351/9d37ad7b-a836-4a1e-9ac1-b7f7fd4de45a)
+
+
+
+![both node_exporter DOWN](https://github.com/creativkj/Prometheus-Monitoring-Alerting/assets/121052351/528bf68c-b53d-4e85-9288-34912962f2cf)
+
+
+
+![one node_exporter DOWN](https://github.com/creativkj/Prometheus-Monitoring-Alerting/assets/121052351/fd890d5d-63b1-44df-ba39-8eb0e67f4978)
+
+
+
+![slack](https://github.com/creativkj/Prometheus-Monitoring-Alerting/assets/121052351/9aefa13e-4470-498a-bd35-d9a5dbc60265)
+
+
+
+![slack_node_exporter DOWN](https://github.com/creativkj/Prometheus-Monitoring-Alerting/assets/121052351/19bc686e-3aae-45e1-a18a-439f19cdda27)
+
+
+
+![slack_resolved state](https://github.com/creativkj/Prometheus-Monitoring-Alerting/assets/121052351/f9ec3506-cc1c-4cd0-a340-475f18d9118c)
+
+
+
+
