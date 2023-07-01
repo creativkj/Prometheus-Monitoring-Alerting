@@ -1,7 +1,6 @@
 # Prometheus Monitoring and Alerting for Multiple EC2 Instances in Multiple Accounts with Slack Integration
 
-## Technologies:
-# EC2, Prometheus, Alert, Alert Manager, Slack
+## Technologies: EC2, Prometheus, Alert, Alert Manager, Slack
 
 ## Problem Statement:
 ### Our organization has a number of Amazon EC2 instances running in multiple accounts, and we need a way to monitor their status and receive alerts when any of them go down. We also want to be able to easily collaborate with our team members when issues arise. Currently, we do not have a reliable system in place to do this, and as a result, we are at risk of experiencing prolonged downtime and reduced visibility into the performance and health of our instances. To address this, we want to set up a Prometheus-based monitoring and alerting system that integrates with Slack, so that we can receive notifications when any of the instances go down and collaborate on resolving any issues that arise.
