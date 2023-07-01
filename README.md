@@ -18,7 +18,10 @@ The result of setting up a Prometheus monitoring system for multiple EC2 instanc
 Some potential benefits of this system may include: 
 
 **1.Improved uptime:** By monitoring the status of the EC2 instances and being alerted when any of them go down, you can take action to restore service as quickly as possible.
+
 **2.Increased visibility:** The Prometheus server and exporters will collect a wide range of metrics about the performance and health of the EC2 instances, which can help you identify trends and issues that may not be immediately apparent.
+
 **3.Enhanced collaboration:** By sending alerts to a Slack channel, you can make it easier for team members to stay informed about the status of the EC2 instances and collaborate on resolving any issues that arise.
+
 Overall, the result of this system should be a more reliable, transparent, and collaborative way to manage the EC2 instances in your environment.
 
